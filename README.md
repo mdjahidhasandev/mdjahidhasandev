@@ -1,16 +1,24 @@
-### Hi there 👋
+###  Hi there, I'm Jahid Hasan👨‍💻
+Welcome to my GitHub's World👋
+I'm a Frontend Web Developer. I strive to create simple, original, and impactful User Experiences.🚀
+💻 I'm passionate about what I learn and apply them into real life.
+⌚ 2022 Goals: Contribute more to Open Source projects. Learn new tech & I will increase my programming knowledge and skills.
+👯 I’m looking to collaborate on any kind of interesting projects.
+🌐 Fun fact: I love to Explore the world.
+🤝 Connect with me:
+Linkedin Badge Medium Badge Stackoverflow Badge Twitter Badge Facebook Badge Mail Badge
 
 
-**mdjahidhasandev/mdjahidhasandev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills
+Languages & Frameworks
+HTML CSS Badge Javascript Badge React Badge Typescript Badge
 
-Here are some ideas to get you started:
+Bootstrap Badge SASS Badge Tailwind Badge
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ..
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Tools & Platforms
+VS Code Badge Git Badge Github Badge
 
+
+Jahid Hasan Github Stats
+
+Top Langs card
